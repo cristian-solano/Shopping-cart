@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "White Shirt",
+      "price": 40,
+      "photo": "./img/shirt4.png"
+    },
+    {
+      "id":2,
+      "name": "Blue Shirt",
+      "price": 45,
+      "photo": "./img/shirt4.png"
+    },
+    {
+      "id": 3,
+      "name": "Black Shirt",
+      "price": 40,
+      "photo": "./img/shirt4.png"
+    },
+    {
+      "id": 4,
+      "name": "Red Shirt",
+      "price": 60,
+      "photo": "./img/shirt4.png"
+    },
+    {
+        "id": 5,
+        "name": "Purple Shirt",
+        "price": 40,
+        "photo": "./img/shirt4.png" 
+    },
+    {
+        "id": 6,
+        "name": "Gray Shirt",
+        "price": 55,
+        "photo": "./img/shirt4.png" 
+    }
+  ]
